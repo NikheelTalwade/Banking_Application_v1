@@ -1,3 +1,3 @@
 # Banking_Application_v1
-The purpose of this project is to develop a distributed banking system that provides customers with the facility to check their accounts and do transactions on-line. The system provides all the banks facilities to its customers when their authentications match, including viewing account information, performing transfers etc.
+An interactive Console application which works  like an ATM, having a  saving and current account also help user to deposit or withdraw money
 Check Latest Update in latest release hub(Banking_Application-v2.0).
